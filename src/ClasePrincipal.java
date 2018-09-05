@@ -38,7 +38,7 @@ public class ClasePrincipal {
 			
 		}
 		
-		System.out.println(guion); 
+		System.out.println(guion);   
 	}
 
 }
